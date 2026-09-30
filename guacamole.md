@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingradients
 * avocado
-* lemon
+* lime
 * salt
 ## Instructions
